@@ -6,7 +6,7 @@ I'm a linguist working primarily with the Uralic languages and language technolo
 
 ### Information
 
-- 🔭 I'm currently working on my PhD thesis about morphological variation in Komi language
+- 🔭 I'm currently finalizing my PhD thesis about morphological variation in Komi language
 - 📔 I work regularly with normalization of dialectal and historical texts
 - 📜 I know both R and Python at an advanced level
 - 👯 I'm looking for new collaboration on: 
