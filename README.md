@@ -22,8 +22,7 @@ I'm a linguist working primarily with the Uralic languages and language technolo
 
 I work or collaborate currently with various organizations, the list below is not exhaustive:
 
-- Kone Foundation funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi
-](https://langdoc.github.io/IKDP-2/), led by Rogier Blokland and Michael Rießler
+- Kone Foundation funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](https://langdoc.github.io/IKDP-2/), led by Rogier Blokland and Michael Rießler
 - [Inclusive Technology for Marginalised Languages](https://itml.cl.indiana.edu/), with a goal to develop ASR technologies for endangered Uralic languages
 - [The Saami Culture Archive of University of Oulu](https://www.oulu.fi/giellagas/saamelainenkulttuuriarkisto), with a goal of building data management workflows for the archive using CSC's tools
 - [FU-Lab](https://fu-lab.ru/), The Finno-Ugric Laboratory for Support of the Electronic Representation of Regional Languages
@@ -45,17 +44,6 @@ I have taught following courses and workshops regularly. Please contact me, if y
 
 ***************
 
-### Languages
-
-- Finnish
-- Komi
-- Russian
-- English
-- Italian
-- Please free to contact me also in: French, German, Estonian, Karelian, Udmurt and Swedish
-
-***************
-
 ### 🗺 Location
 
 I live currently in Helsinki, Finland. I have previously lived in:
@@ -66,3 +54,15 @@ I live currently in Helsinki, Finland. I have previously lived in:
 - 🌲 [Syktyvkar, Russia](https://goo.gl/maps/VRqWAZ29KiWs6sgQA)
 - 🍷 [Rovereto, Italy](https://goo.gl/maps/Sx9JEtPxMeXZbVCo9)
 - 🚣 [Sulkava, Finland](https://goo.gl/maps/LNg2CB9s6dziT2HM7)
+
+***************
+
+### Languages
+
+- Finnish
+- Komi
+- Russian
+- English
+- Italian
+- Please free to contact me also in: French, German, Estonian, Karelian, Udmurt and Swedish
+
