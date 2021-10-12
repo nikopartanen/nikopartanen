@@ -1,6 +1,6 @@
 ### Niko Partanen
 
-I'm a linguist working primarily with the Uralic languages and language technology. I have also worked extensively with archives and memory organizations, and serve as the librarian and archivist of the [Finno-Ugrian Society](https://www.sgr.fi/en/). My research work has, besides linguistics, regularly addressed the use and digitization of archived materials.
+I'm a linguist working primarily with the Uralic languages and language technology. I have also worked with different archives and memory organizations, and serve as the librarian and archivist of the [Finno-Ugrian Society](https://www.sgr.fi/en/). My research work has, besides linguistics, regularly addressed the use and digitization of archived materials.
 
 ***************
 
@@ -64,5 +64,5 @@ I live currently in Helsinki, Finland. I have previously lived in:
 - Russian
 - English
 - Italian
-- Please free to contact me also in: French, German, Estonian, Karelian, Udmurt and Swedish
+- Please free to contact me also in: Northern Saami, Aanaar Saami, Skolt Saami, French, German, Estonian, Karelian, Udmurt and Swedish
 
