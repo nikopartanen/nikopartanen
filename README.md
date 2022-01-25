@@ -24,7 +24,7 @@ I work as an information specialist in [the National Library of Finland](https:/
 
 I work or collaborate currently with various organizations, the list below is not exhaustive:
 
-- **Project ended in 2021*** Kone Foundation funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](https://langdoc.github.io/IKDP-2/), led by Rogier Blokland and Michael Rießler 
+- **Project ended in 2021** Kone Foundation funded research project [Language Documentation meets Language Technology: The Next Step in the Description of Komi](https://langdoc.github.io/IKDP-2/), led by Rogier Blokland and Michael Rießler 
 - [Inclusive Technology for Marginalised Languages](https://itml.cl.indiana.edu/), with a goal to develop ASR technologies for endangered Uralic languages
 - [The Saami Culture Archive of University of Oulu](https://www.oulu.fi/giellagas/saamelainenkulttuuriarkisto), with a goal of building data management workflows for the archive using CSC's tools
 - [FU-Lab](https://fu-lab.ru/), The Finno-Ugric Laboratory for Support of the Electronic Representation of Regional Languages
