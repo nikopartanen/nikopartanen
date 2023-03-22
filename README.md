@@ -1,6 +1,6 @@
 ### Niko Partanen
 
-I'm a linguist working primarily with the Uralic languages and language technology. I'm finishing my PhD in 2022, and plan to continue some of my current research collaborations after that as well. I have worked with different archives and memory organizations, and serve as the librarian and archivist of the [Finno-Ugrian Society](https://www.sgr.fi/en/). My research work has, besides linguistics, regularly addressed the use and digitization of archived materials.
+I'm a linguist working primarily with the Uralic languages and language technology. I have worked with different archives and memory organizations, and serve as the librarian and archivist of the [Finno-Ugrian Society](https://www.sgr.fi/en/). My research work has, besides linguistics, regularly addressed the use and digitization of archived materials.
 
 I work as an information specialist in [the National Library of Finland](https://www2.helsinki.fi/en/people/people-finder/niko-partanen-9113872). My work is primarily related to the minority language support in our digital services, especially for the Sámi languages spoken in Finland. 
 
